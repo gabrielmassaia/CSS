@@ -1,0 +1,31 @@
+ body {
+    font-size: 1.2em;
+}
+
+.img1 {
+    height: 200px;
+    float: right; 
+}
+
+p {
+    clear: none;
+}
+
+.div1 {
+    border: 1px solid grey;
+    overflow: auto;
+    background-color: rgb(73, 3, 73);
+    padding: 10px;
+} 
+
+ul {
+    
+    list-style: none;
+}
+
+li {
+    float: left;
+    padding: 10px;
+    background-color: green;
+    margin: 5px;
+}
