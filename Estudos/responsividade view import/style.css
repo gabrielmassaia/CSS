@@ -1,0 +1,31 @@
+body {
+    font-size: 1.2em;
+}
+
+img {
+    width: 300px;
+}
+
+.header {
+    position: relative;
+    padding: 30px;
+    margin: auto;
+    height: 100px;
+    width: 80%;
+    background-color: grey;
+}
+
+.content {
+    position: absolute;
+    background-color: blue;
+    width: 70%;
+    height: 70%;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);  
+
+    text-align: center;
+    font-size: 6vw;
+}
